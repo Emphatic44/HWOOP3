@@ -193,6 +193,8 @@ int main()
     Rhombus romb(5, 2);
     romb.area();
 
+    cout << "" << endl;
+
 
     //Task2
 
